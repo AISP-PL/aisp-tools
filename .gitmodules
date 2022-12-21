@@ -1,0 +1,21 @@
+[submodule "darknet"]
+	path = darknet
+	url = git@github.com:folkien/darknet.git
+[submodule "pyImageAugmentation"]
+	path = pyImageAugmentation
+	url = git@github.com:folkien/pyImageAugmentation.git
+[submodule "yolo-annotate"]
+	path = yolo-annotate
+	url = git@github.com:folkien/yolo-annotate.git
+[submodule "DarkMark"]
+	path = DarkMark
+	url = https://github.com/stephanecharette/DarkMark.git
+[submodule "DarkHelp"]
+	path = DarkHelp
+	url = https://github.com/stephanecharette/DarkHelp.git
+[submodule "pyYoloOcrGenerator"]
+	path = pyYoloOcrGenerator
+	url = https://github.com/folkien/pyYoloOcrGenerator.git
+[submodule "yaya"]
+	path = yaya
+	url = git@github.com:folkien/yaya.git
