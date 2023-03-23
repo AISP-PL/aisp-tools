@@ -19,3 +19,6 @@
 [submodule "yaya"]
 	path = yaya
 	url = git@github.com:folkien/yaya.git
+[submodule "aisp-firebase-admin"]
+	path = aisp-firebase-admin
+	url = git@github.com:folkien/aisp-firebase-admin.git
