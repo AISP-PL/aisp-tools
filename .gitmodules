@@ -22,3 +22,15 @@
 [submodule "aisp-firebase-admin"]
 	path = aisp-firebase-admin
 	url = git@github.com:folkien/aisp-firebase-admin.git
+[submodule "cvat"]
+	path = cvat
+	url = git@github.com:opencv/cvat.git
+[submodule "classifiers-compare"]
+	path = classifiers-compare
+	url = git@github.com:AISP-PL/classifiers-compare.git
+[submodule "aisp-albumentations"]
+	path = aisp-albumentations
+	url = git@github.com:AISP-PL/aisp-albumentations.git
+[submodule "yaya-reid"]
+	path = yaya-reid
+	url = git@github.com:AISP-PL/yaya-reid.git
